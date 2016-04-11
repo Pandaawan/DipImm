@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Mon, 09 Nov 2015 01:02:49 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="stylesheet" href="css/main.css" />
+    <title>Diplomatic Immunity Podcast | Episodes</title>
+
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+  	<div id="wrapper">
+	  <div id="logo">
+	    <img src="img/DipImm.png" />
+	  </div>
+	  <div id="nav">
+	  	<!-- <h1>Diplmotic Immunity</h1> -->
+	    <ul>
+		  <li><a href="index.html">Home</a></li>
+		  <li><a href="podcast.html">Podcast</a></li>
+		  <li><a href="contact.html">About</a></li>
+		</ul>	  
+	  </div>
+	  <div class="content">
+	    <div>
+	      <p>Episode List</p>
+		  <p>Will fill this area with each additional podcast.</p>
+		  <ul>
+		  	  <li><a href="https://drive.google.com/open?id=0B_1dTfyOaXt9bkwwYU9QVTVyVjQ"><img src="img/Guile.jpg" width="150" height="168" alt="Episode 3 Thumbnail"/><p>Episode 3 - I'd Buy That For A Dollar!</p></a></li>
+		  	  <li><a href="https://drive.google.com/open?id=0B_1dTfyOaXt9ak5UYlVnc0Q3M2M"><img src="img/Guile.jpg" width="150" height="168" alt="Episode 2 Thumbnail"/><p>Episode 2 - Three Fifths of Defeat All Man</p></a></li>
+			  <li><a href="https://drive.google.com/open?id=0B_1dTfyOaXt9aEJRTWtBZ195b3M"><img src="img/Guile.jpg" width="150" height="168" alt="Episode 1 Thumbnail"/><p>Episode 1 - The Need For Speed</p></a></li>
+			  <li><a href=""><img src="img/Guile.jpg" width="150" height="168" alt="Episode 0 Thumbnail"/><p>Episode 0 - Nailed 'em Both</p></a></li>
+		  </ul>
+	    </div>
+		<!-- <div>
+	  	  <img src="" alt="Image right-aligned here on desktop version" />
+		</div> -->
+	  </div>
+	  
+	  <footer>
+	    <p>Generic footer information to go here, along with social media links.</p>
+		<a href="#"><img src="" alt="FB logo" /></a>
+		<a href="#"><img src="" alt="Twitter logo" /></a>
+		<a href="#"><img src="" alt="Googs logo" /></a>
+	  </footer>
+  </body>
+</html>

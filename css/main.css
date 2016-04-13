@@ -120,6 +120,31 @@ a:visited {
   text-decoration: underline;
 }
 
+.mask {
+    position:relative;
+    overflow:hidden;
+    display:inline-block;/* preserve display behavior of initila image to mask*/
+    /* box-shadow:0 0 0 1px;/* show where i stands */ */
+}
+
+.mask img {
+    display:block;/* a way to remove bottom gap*/
+}
+
+.mask:before {
+    content:'';
+    position:absolute;
+    border-radius:100%;
+    box-shadow:0 0 0 2000px #6C6C6C;
+}
+
+.coord:before {
+    height:220px;
+    width:220px;
+    top:150px;
+    left:100px;
+}
+
 @media screen and (max-width: 720px) { /* 480px) { */
     body {
       text-align:center;
@@ -151,6 +176,10 @@ a:visited {
       /* width: 49%; */
       width: 80%;
       margin: .05em; 
+    }
+    
+    .contPage div {
+      width: 100%;
     }
 }
 
